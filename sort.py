@@ -4,10 +4,10 @@ import os
 import numpy as np
 
 ##### NEW
-!pip --no-cache-dir install -U --force-reinstall matplotlib
+# !pip --no-cache-dir install -U --force-reinstall matplotlib
 import tkinter
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('Agg')
 ###### NEW end
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
