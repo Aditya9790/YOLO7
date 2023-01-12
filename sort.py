@@ -2,6 +2,7 @@ from __future__ import print_function
 
 import os
 import numpy as np
+import tkinter
 import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
